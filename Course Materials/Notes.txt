@@ -1,0 +1,19 @@
+1.1 Command Line Basics
+    That black screen or window is the command line interface (CLI).
+
+    Before we do anything, take a look at the following text: $ whoami This is a terminal command because it begins with a $. 
+    The $ is saying “Hey! Enter what follows in your terminal.” This means that we must exclude the $ when entering any command.
+    In the example above, we would only enter whoami in our terminal. 
+    This is a common indicator so make sure that you aren’t entering $ before a command.
+
+1.2 HTML
+    You can think of elements as containers for content. 
+    The opening and closing tags tell the browser what content the element contains. 
+    The browser can then use that information to determine how it should interpret and format the content.
+
+    There are some HTML elements that do not have a closing tag. 
+    These elements often look like this: <br /> or <img/>, 
+    but some can also be used without the closing forward slash such as <br> or <img>. 
+    These are known as self-closing tags or empty elements because they don’t wrap any content.
+
+    Using the correct elements for content is called semantic HTML.
